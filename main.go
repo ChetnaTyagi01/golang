@@ -7,7 +7,7 @@ func main() {
 
 	// strings
 	var nameOne string = "chetna"            // explicitly giving the type
-	var nameTwo = "tyagi"                    // Go is automaticalling inferring the type
+	var nameTwo = "tyagi"                    // Go is automatically inferring the type
 	var nameThree string                     // declaring for future use
 	fmt.Println(nameOne, nameTwo, nameThree) // empty string value for nameThree
 
