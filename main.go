@@ -37,4 +37,6 @@ func main() {
 	// updating an item inside the map
 	phonebook[87654343] = "julia"
 	fmt.Println("updated phonebook:", phonebook)
+	phonebook[99876543] = "david"
+	fmt.Println("updated phonebook:", phonebook)
 }
