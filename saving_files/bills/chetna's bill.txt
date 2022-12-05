@@ -1,0 +1,6 @@
+Bill Breakdown: 
+coffee:                   ...$2.99 
+veg burger:               ...$5.5 
+cake:                     ...$3.99 
+tip:                      ...$5.00 
+total:                    ...$17.48
